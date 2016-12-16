@@ -42,5 +42,3 @@ The reservation status of each book is displayed in the search results from any 
 Users can choose to logout of the system at any time as a logout button is included on all pages, after successful login. 
 Logging out terminates the user's session so that no other user's can access their account details. 
 Once logged out, a user must login again to access the system. 
-
-Library_WebDev
