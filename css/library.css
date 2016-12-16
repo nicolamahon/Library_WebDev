@@ -1,0 +1,82 @@
+body
+{
+	font-size: 30px;
+	font-family: sans-serif;
+	text-align: center;
+}
+/*
+div 
+{
+	font-size: 30px;
+	font-family: sans-serif;
+}
+*/
+#container tr
+{
+	text-align: right;
+}
+
+input {
+    line-height: 2em; // 2em is (2 * default line height)
+}
+
+input[type=password] {
+    width: 18em;  
+	height: 3em;
+	
+}
+
+input[type=number] {
+    width: 18em;  
+	height: 3em;
+	
+}
+
+input[type=text] {
+    width: 18em;  
+	height: 3em;
+	
+}
+
+input[type=submit] {
+    width: 18em;  
+	height: 3em;
+	
+}
+
+input[type=return] {
+    width: 18em;  
+	height: 3em;
+	
+}
+
+input[type=button] {
+    width: 18em;  
+	height: 3em;
+	
+}
+
+input[type=reset] {
+    width: 18em;  
+	height: 3em;
+	
+}
+
+
+img {
+   padding:10px;
+   border:30px solid #bef198;
+   background-color:#ff0;
+}
+
+table
+{
+	padding: 10px;
+	height: 30px;
+	border-collapse: collapse;
+	font-family: sans-serif;
+	font-size: 25px;
+	text-align: center;
+}
+
+
